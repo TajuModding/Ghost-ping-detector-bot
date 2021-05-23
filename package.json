@@ -1,13 +1,15 @@
 {
-  "name": "Ghost-Pinger-Detector",
+  "name": "Rainbow-Studios-Ghost-Pinger-Detector", //By Rainbow Studios - https://discord.gg/Tccx7F7mMj
+                                                   //Copyright use the code without credit and get sued
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rainbow Studios",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1"
