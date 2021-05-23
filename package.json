@@ -1,7 +1,6 @@
 {
   "name": "Rainbow-Studios-Ghost-Pinger-Detector", //By Rainbow Studios - https://discord.gg/Tccx7F7mMj
-                                                   //Copyright use the code without credit and get sued
-  "version": "1.0.0",
+  "version": "1.0.0",                             //Copyright use the code without credit and get sued
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,4 +13,5 @@
   "dependencies": {
     "discord.js": "^12.5.1"
   }
-}
+}                                                
+  
