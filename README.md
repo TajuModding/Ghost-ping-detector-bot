@@ -16,7 +16,7 @@ enter token in `index.js` from https://discord.dev/
 **Step 3** <br>
 run `npm start`. Your bot is hosted and running
 
-## How to run in 24/7?
+## How to run it 24/7?
 
 Join support server we will help you on this - https://discord.gg/Tccx7F7mMj
 
